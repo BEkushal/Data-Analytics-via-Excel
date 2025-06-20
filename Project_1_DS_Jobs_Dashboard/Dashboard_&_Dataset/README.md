@@ -11,7 +11,7 @@ The dataset includes job roles, salaries, locations, and required skills structu
 This project was built by following an excellent Excel course on [YouTube](https://www.youtube.com/watch?v=pCJ15nGFgVg&list=PLiSt4_1tGhCl0X8AqTebvIIHxQ_hgl5j8) I completed the entire course, recreating and understanding each component from the ground up. The dashboard represents my first complete Excel project, showcasing skills in understanding worksheet features, navigation, formula logic, charting, and interactivity.
 
 ### 📁 Dashboard File
-The Dashboard [click here](Project_1_DS_Jobs_Dashboard/Dashboard_&_Dataset) has the dataset in the hidden sheet named "Jobs_data".
+The Dashboard [click here](https://github.com/BEkushal/Data-Analytics-via-Excel/blob/main/Project_1_DS_Jobs_Dashboard/Dashboard_%26_Dataset/DS_Salary_Dashboard.xlsx) has the dataset in the hidden sheet named "Jobs_data".
 
 ### 🛠️ Excel Skills Demonstrated
 
